@@ -12,7 +12,7 @@
   <br>
 </h1>
 
-## I'm a Fullstack Developer with ML/AI enthusiastic, Freelancer, Motivated Quoter, Developer, and a Sportsperson!!
+## I'm a Fullstack Developer with ML/AI enthusiastic, Freelancer, Motivated Quoter, Developer, and a Sportperson!!
 
 - 🔭 I just started Exploring Myself Just Kidding 🤣🤣🤣!
 - 🌱 I’m currently learning everything and implementing🤣
@@ -38,9 +38,12 @@
 
 
 <br />
+
+| <a href="https://github.com/R0hanDEV/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=R0hanDEV&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/R0hanDEV/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0hanDEV&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <br />
 
 
-[twitter]: https://twitter.com/Rohan89483334
+[Twitter]: https://twitter.com/Rohan89483334
 [instagram]: https://instagram.com/_r0han_45
 [linkedin]: https://linkedin.com/in/rohan-vishwakarma-99565b176
