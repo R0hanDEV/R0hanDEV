@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning everything and implementing🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Want to Contribute to Open Source projects and want to learn more and explore my limits
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to write and play cricket 
 
 ### Connect with me:
 
