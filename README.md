@@ -12,7 +12,7 @@
   <br>
 </h1>
 
-## I'm a Fullstack Developer with ML/AI enthusiast, Freelancer,Motivational writer, Developer, and a Sportperson!!
+## I'm a Fullstack Developer with ML/AI enthusiast, Freelancer, Motivational writer, Developer, and a Sports person!!
 
 - 🔭 I just started Exploring Myself Just Kidding 🤣🤣🤣!
 - 🌱 I’m currently learning everything and implementing🤣
