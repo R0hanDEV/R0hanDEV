@@ -1,49 +1,18 @@
-### Hi there, I'm Rohan -Vishwakarma  👋 
+# 💫 About Me:
+👋 Hi, I'm a Senior Full-stack Developer with 3+ years of hands-on experience building robust solutions in the finance and healthcare industries. My expertise spans across both frontend and backend development, with a strong focus on:<br><br>🚀 Architectures: Micro frontends, microservices, and event-driven systems.<br>💻 Frontend Technologies: Angular, React.js, HTML, CSS, SCSS, Bootstrap, Tailwind, and Material UI.<br>🔧 Backend Expertise: Golang, Node.js, REST APIs, and MERN/MEAN stacks.<br>📊 Databases: PostgreSQL, MongoDB, and KsqlDB.<br>📡 Message Queues: Kafka.<br>☁️ DevOps: Docker, Linux, and Azure Cloud.<br><br>Constantly learning, adapting, and delivering high-quality solutions that make a difference.<br><br>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rohan89483334?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rohan89483334)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Rohan89483334?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rohan89483334) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohandev45) 
 
-<h1 align="center">
-  <br>
-  <a ><img src="Dev_logo.png" alt="Markdownify" width="200"></a>
-  <br>
-  R0han45@DEV
-  <br>
-</h1>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=R0hanDEV&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=R0hanDEV&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0hanDEV&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## I'm a Fullstack Developer with ML/AI enthusiast, Freelancer, Motivational writer, Developer, and a Sports person!!
+---
+[![](https://visitcount.itsvg.in/api?id=R0hanDEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I just started Exploring Myself Just Kidding 🤣🤣🤣!
-- 🌱 I’m currently learning everything and implementing🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Want to Contribute to Open Source projects and want to learn more and explore my limits
-- ⚡ Fun fact: I love to write and play cricket 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-
-<code><img height="30" src="javascript.png"></code>
-<code><img height="30" src="react.png"></code>
-<code><img height="30" src="graphql.png"></code>
-<code><img height="30" src="nodejs.png"></code>    
-
-
-<br />
-
-| <a href="https://github.com/R0hanDEV/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=R0hanDEV&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/R0hanDEV/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0hanDEV&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<br />
-
-
-[Twitter]: https://twitter.com/Rohan89483334
-[instagram]: https://instagram.com/_r0han_45
-[linkedin]: https://linkedin.com/in/rohan-vishwakarma-99565b176
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
